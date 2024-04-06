@@ -1,0 +1,25 @@
+form{
+	border: solid 1px;
+	width: 200px;
+	height: 400px;
+	margin-left: 240px;
+	margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+	padding-bottom: 20px;
+	background-color: white;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+button{
+	width: 700px;
+	height: 40px;
+	background-color: #42bcf5;
+	padding-bottom: 20px;
+	font-size: 28px;
+}
+body{
+	background-color: #42f5f5
+}

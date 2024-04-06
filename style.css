@@ -1,0 +1,22 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.outerbox{
+	border: solid 1px;
+	height: 140px;
+	display: flex;
+}
+#box1,#box2,#box3{
+	border: solid 1px;
+	height: 140px;
+}
+#box1{
+	width: 200px;
+}
+#box2{
+	width: 900px;
+	text-align: center;
+	background-color:
+}
